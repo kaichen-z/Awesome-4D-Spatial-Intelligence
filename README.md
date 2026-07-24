@@ -508,7 +508,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | LoGeR |[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)     | [Project](https://loger-project.github.io/) | [GitHub](https://github.com/Junyi42/LoGeR) |
 | 2026 |  | FILT3R |[FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.18493)     |  | [GitHub](https://github.com/jinotter3/FILT3R) |
 | 2026 |  | VGGT-World |[VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://arxiv.org/abs/2603.12655)     |  |  |
-| 2026 | ICLR | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     | [Project](https://page4d.github.io/) | [GitHub](https://github.com/kaichen-z/PAGE4D) |
+| 2026 | ICLR | PAGE-4D | [PAGE-4D: VGGT-4D Perception via Disentangled Pose and Geometry Estimation](https://arxiv.org/abs/2510.17568)     | [Project](https://page4d.github.io/) | [GitHub](https://github.com/kaichen-z/PAGE4D) |
 | 2026 |  | CAM3R | [CAM3R: Camera-Agnostic Model for 3D Reconstruction](https://arxiv.org/abs/2603.22631)     | [Project](https://nam1410.github.io/cam3r/) |  |
 | 2026 | CVPR | 4C4D | [4C4D: 4 Camera 4D Gaussian Splatting](https://arxiv.org/abs/2604.04063)     | [Project](https://junshengzhou.github.io/4C4D/) | [GitHub](https://github.com/yangzf-1023/4C4D) |
 | 2026 |  | TRiGS | [TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting](https://arxiv.org/abs/2604.00538)     | [Project](https://wwwjjn.github.io/TRiGS-project_page/) |  |
